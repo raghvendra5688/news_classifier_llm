@@ -1,0 +1,25 @@
+Train dataset size: 134096
+Validation dataset size: 33525
+Test dataset size: 41906
+['U.S. NEWS', 'COMEDY', 'PARENTING', 'WORLD NEWS', 'CULTURE & ARTS', 'TECH', 'SPORTS', 'ENTERTAINMENT', 'POLITICS', 'WEIRD NEWS', 'ENVIRONMENT', 'EDUCATION', 'CRIME', 'SCIENCE', 'WELLNESS', 'BUSINESS', 'STYLE & BEAUTY', 'FOOD & DRINK', 'MEDIA', 'QUEER VOICES', 'HOME & LIVING', 'WOMEN', 'BLACK VOICES', 'TRAVEL', 'MONEY', 'RELIGION', 'LATINO VOICES', 'IMPACT', 'WEDDINGS', 'COLLEGE', 'PARENTS', 'ARTS & CULTURE', 'STYLE', 'GREEN', 'TASTE', 'HEALTHY LIVING', 'THE WORLDPOST', 'GOOD NEWS', 'WORLDPOST', 'FIFTY', 'ARTS', 'DIVORCE']
+Text: Manage Your Expectations, Lower Your Stress
+Your outlook is a product of your own relationship with expectation. What will or won't happen, no one knows. And how we deal with the stress of not knowing, whether to hope for the best or expect the worst, the idea that our expectations always directly affect an outcome is little more than magical thinking.
+Predicted label: WELLNESS, Score: 0.7709
+
+Text: Donald Trump Tells Drought-Plagued Californians: 'There Is No Drought'
+"If I win, believe me, we’re going to start opening up the water."
+Predicted label: POLITICS, Score: 0.9552
+
+Text: Sticker Shock: 5 Of The World's Most Expensive Hotel Suites (PHOTOS)
+You can only imagine our heart palpitations when we see the nightly rates of these hotels' top-of-the-line suites.
+Predicted label: TRAVEL, Score: 0.9818
+
+Text: Bianca Del Rio Talks Hurricane Bianca and What's Next For Her Infamous Rolodex of Hate
+It's been less than a week since Bianca del Rio was crowned America's Next Drag Superstar and her dance card is full of appearances, from New York to Mississippi to Alabama, and that's just in the last week of May. But, Bianca has her eyes set on bigger stages and silver screens.
+Predicted label: QUEER VOICES, Score: 0.6279
+
+Text: Lanvin Fall Campaign Features Real People In 'Democratic' Approach (PHOTOS)
+Lanvin may be one of Paris' oldest fashion houses, but that doesn't mean that it has to create stuffy ad campaigns to represent
+Predicted label: STYLE & BEAUTY, Score: 0.9528
+
+Weighted F1 Score on Test Set: 0.7009
